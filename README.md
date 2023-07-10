@@ -37,23 +37,6 @@
 - 💬 Ask me about Programming.Open Source
 
 
-📫 ekovegance Domains :
-
-- Website : www.ekovegeance.com
-- Email   : me@ekovegeance.com
-- Dev     : https://dev.to/ekovegeance
-- Medium  : https://ekovegeance.medium.com
-- Twitter : https://twitter.com/ekovegeance7
-- LinkedIn :  https://www.linkedin.com/in/ekovegeance
-- gitlab  : https://gitlab.com/ekovegeance
-
-
-⚡ Addr
-- GPG : B46F614C1FB353FE
-- Bitcoin : 1CXqJujxt3MV9ujRwwQtM6Y1oeWsGJfEbc
-- Dogecoin : D8LgXt1yjTXxSyMkxb6e5s26WQTmEx1JNj
-- Hns Coin : hs1qsvvem3d6ftzh6prlzl0uhha4qjt0q73y6ey893
-
 
      
 
